@@ -1,0 +1,15 @@
+# Служебные файлы выгрузки 1С
+ConfigDumpInfo.xml
+
+# Временные и служебные файлы
+*.log
+*.tmp
+*.dt
+*.cf
+*.cfu
+*.epf
+*.erf
+
+# Служебные файлы Windows
+Thumbs.db
+Desktop.ini
